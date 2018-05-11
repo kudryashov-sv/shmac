@@ -1,0 +1,2 @@
+// Package shmac
+package shmac
